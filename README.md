@@ -1,4 +1,4 @@
-# Hey, soy Guido 👋
+# Hola, soy Guido 👋
 ### 16 años · Buenos Aires, Argentina 🇦🇷
 
 Estudiante de programación que construye cosas reales. Vendo sitios web a negocios locales, hago backends, integro IA y siempre tengo algo en producción.
