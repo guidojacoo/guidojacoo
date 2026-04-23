@@ -63,3 +63,9 @@ Indicador de trading para memecoins con Order Blocks y dashboard en vivo. Pine S
 ## ⚡ Intereses
 
 Desarrollo web · IA aplicada · Robótica · Freelance · Finanzas & trading · Automatización
+
+## 💼 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guidojacofsky)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/guido.jacoo)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:guidojacofskyy@gmail.com)
