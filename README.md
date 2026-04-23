@@ -1,34 +1,65 @@
-# Guido
-### 16 · Buenos Aires, Argentina
+# Hey, soy Guido 👋
+### 16 años · Buenos Aires, Argentina 🇦🇷
 
-Estudiante de programación construyendo productos reales desde Buenos Aires.
-Desarrollo y vendo sitios web a negocios locales, construyo indicadores de trading en Pine Script y experimento con robots, IA y sistemas cuantitativos. Siempre con algo en producción.
+Estudiante de programación que construye cosas reales. Vendo sitios web a negocios locales, hago backends, integro IA y siempre tengo algo en producción.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| **Pump Short Detector Pro** | Indicador + strategy para memecoins. Order Blocks, 6 filtros de entrada, dashboard. Pine Script v6 |
-| **Volume Profile Heatmap** | Heatmap dinámico con POC curve y niveles S/R automáticos |
-| **Compoundly** | Simulador de interés compuesto (S&P 500, Bitcoin, plazo fijo AR). React + Next.js |
-| **Unitree Go2 Control** | Control del robot dog via Python + WebRTC. WASD + live camera feed |
-| **Sitios para negocios** | Landing pages custom para clientes en Buenos Aires |
-| **Crypto Quant Backtest** | Backtest BTCUSDT/ETHUSDT 5min. EMA 200, ADX, Bollinger, Donchian |
+**🐾 PetCare — Comedero automático inteligente**
+Comedero de perros automatizado con IA integrada y backend completo. Mi rol: diseño e integración de la IA + desarrollo del backend.
+
+**💰 Compoundly**
+Simulador de interés compuesto con presets (S&P 500, Bitcoin, plazo fijo AR). React + Next.js, dark mode, deploy en Vercel.
+
+**🌐 Sitios para negocios locales**
+Landing pages con diseño custom para clientes en Buenos Aires. HTML/CSS/JS + Node.js.
+
+**🤖 Unitree Go2 — Robot Dog Control**
+Control del robot dog via Python + WebRTC. WASD keyboard + live camera feed.
+
+**📈 Pump Short Detector Pro**
+Indicador de trading para memecoins con Order Blocks y dashboard en vivo. Pine Script v6.
 
 ---
 
-## 🛠 Stack
+## 🧰 Toolbox
 
-`JavaScript` `Node.js` `Express` `React` `Next.js` `Python` `PostgreSQL` `Pine Script v6` `WebRTC` `Vercel` `Google Colab` `REST APIs`
+**🖥️ Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**⚙️ Backend & DB**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**🧠 Otros lenguajes / plataformas**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-1E88E5?style=flat&logo=tradingview&logoColor=white)
+
+**🎨 Diseño & UI**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
+**🛠️ Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ---
 
 ## ⚡ Intereses
 
-Trading algoritmico · Smart Money / SMC · Robótica · Web dev freelance · Finanzas cuantitativas · IA aplicada
-
----
-
-*Buenos Aires, Argentina 🇦🇷*
+Desarrollo web · IA aplicada · Robótica · Freelance · Finanzas & trading · Automatización
