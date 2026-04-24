@@ -7,20 +7,25 @@ Estudiante de programación que construye cosas reales. Vendo sitios web a negoc
 
 ## 🚀 Proyectos destacados
 
-**🐾 PetCare — Comedero automático inteligente**
-Comedero de perros automatizado con IA integrada y backend completo. Mi rol: diseño e integración de la IA + desarrollo del backend.
+**🤖 GemmLab — Plataforma de control y extension para robots (Unitree Go2)**  
+Desarrollo de una plataforma modular para el control remoto y la integracion de funcionalidades avanzadas en robots cuadrupedos. Incluye transmision de video en tiempo real, control desde navegador y arquitectura basada en adapters para escalar capacidades.  
+**Stack:** Python, WebRTC, Node.js.
 
-**💰 Compoundly**
-Simulador de interés compuesto con presets (S&P 500, Bitcoin, plazo fijo AR). React + Next.js, dark mode, deploy en Vercel.
+**🐾 PetCare — Comedero inteligente con IA**  
+Sistema de alimentacion automatizado con camara integrada, control remoto y asistente basado en IA para recomendaciones personalizadas segun el perfil del perro. Diseñado con enfoque en producto real.  
+**Rol:** desarrollo de backend e integracion de IA.
 
-**🌐 Sitios para negocios locales**
-Landing pages con diseño custom para clientes en Buenos Aires. HTML/CSS/JS + Node.js.
+**📈 Pump Short Detector Pro**  
+Indicador de trading orientado a mercados de alta volatilidad, basado en Order Blocks y analisis tecnico. Incluye visualizacion de datos en tiempo real para mejorar la toma de decisiones.  
+**Stack:** Pine Script v6.
 
-**🤖 Unitree Go2 — Robot Dog Control**
-Control del robot dog via Python + WebRTC. WASD keyboard + live camera feed.
+**💰 Compoundly — Simulador de interes compuesto**  
+Aplicacion web para modelar el crecimiento de capital bajo distintos escenarios de inversion, incluyendo referencias a activos reales. Interfaz clara y orientada a la exploracion de estrategias.  
+**Stack:** React, Next.js, Vercel.
 
-**📈 Pump Short Detector Pro**
-Indicador de trading para memecoins con Order Blocks y dashboard en vivo. Pine Script v6.
+**🌐 Desarrollo web para clientes**  
+Diseño y desarrollo de sitios web y landing pages para negocios locales, con foco en performance, claridad y conversion.  
+**Stack:** HTML, CSS, JavaScript, Node.js.
 
 ---
 
