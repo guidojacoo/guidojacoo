@@ -9,7 +9,7 @@ Estudiante de programación que construye cosas reales. Vendo sitios web a negoc
 
 **🤖 GemmLab — Plataforma de control y extension para robots (Unitree Go2)**  
 Desarrollo de una plataforma modular para el control remoto y la integracion de funcionalidades avanzadas en robots cuadrupedos. Incluye transmision de video en tiempo real, control desde navegador y arquitectura basada en adapters para escalar capacidades.  
-🔗 [Repositorio](https://github.com/gemm-app) • En Proceso...
+🔗 [Repositorio](https://github.com/gemm-app) • En Proceso...  
 **Stack:** Python, JavaScript, Node.js, WebRTC, WebSockets, HTML, CSS.
 
 **🐾 PetCare — Comedero inteligente con IA**  
@@ -24,7 +24,7 @@ Indicador de trading orientado a mercados de alta volatilidad, basado en Order B
 
 **💰 Compoundly — Simulador de interes compuesto**  
 Aplicacion web para modelar el crecimiento de capital bajo distintos escenarios de inversion, incluyendo referencias a activos reales. Interfaz clara y orientada a la exploracion de estrategias.  
-🔗 [Demo](https://compoundlyy.vercel.app) • [Repositorio](https://github.com/guidojacoo/compoundly) • En Proceso...
+🔗 [Demo](https://compoundlyy.vercel.app) • [Repositorio](https://github.com/guidojacoo/compoundly) • En Proceso...  
 **Stack:** React, Next.js, TypeScript, Vercel.
 
 **🌐 Desarrollo web para clientes**  
