@@ -9,19 +9,23 @@ Estudiante de programación que construye cosas reales. Vendo sitios web a negoc
 
 **🤖 GemmLab — Plataforma de control y extension para robots (Unitree Go2)**  
 Desarrollo de una plataforma modular para el control remoto y la integracion de funcionalidades avanzadas en robots cuadrupedos. Incluye transmision de video en tiempo real, control desde navegador y arquitectura basada en adapters para escalar capacidades.  
-**Stack:** Python, WebRTC, Node.js.
+🔗 [Repositorio](https://github.com/gemm-app) • En Proceso...
+**Stack:** Python, JavaScript, Node.js, WebRTC, WebSockets, HTML, CSS.
 
 **🐾 PetCare — Comedero inteligente con IA**  
 Sistema de alimentacion automatizado con camara integrada, control remoto y asistente basado en IA para recomendaciones personalizadas segun el perfil del perro. Diseñado con enfoque en producto real.  
-**Rol:** desarrollo de backend e integracion de IA.
+🔗 [Repositorio](https://github.com/guidojacoo/PetCare)  
+**Stack:** HTML, CSS, JavaScript, SQL, Neon, Node.js, Express, REST APIs
 
 **📈 Pump Short Detector Pro**  
 Indicador de trading orientado a mercados de alta volatilidad, basado en Order Blocks y analisis tecnico. Incluye visualizacion de datos en tiempo real para mejorar la toma de decisiones.  
+🔗 [TradingView](https://www.tradingview.com/script/qWomQ634-Pump-Short-Detector-Pro/)  
 **Stack:** Pine Script v6.
 
 **💰 Compoundly — Simulador de interes compuesto**  
 Aplicacion web para modelar el crecimiento de capital bajo distintos escenarios de inversion, incluyendo referencias a activos reales. Interfaz clara y orientada a la exploracion de estrategias.  
-**Stack:** React, Next.js, Vercel.
+🔗 [Demo](https://compoundlyy.vercel.app) • [Repositorio](https://github.com/guidojacoo/compoundly) • En Proceso...
+**Stack:** React, Next.js, TypeScript, Vercel.
 
 **🌐 Desarrollo web para clientes**  
 Diseño y desarrollo de sitios web y landing pages para negocios locales, con foco en performance, claridad y conversion.  
